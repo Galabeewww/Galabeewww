@@ -1,4 +1,6 @@
-# <center>Welcome to my Repositories</center>
+<div align="center">
+ # >Welcome to my Repositories
+</div>
  
  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReykaMR/ReykaMR/output/pacman-contribution-graph-dark.svg">
