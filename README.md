@@ -1,3 +1,11 @@
+ <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReykaMR/ReykaMR/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ReykaMR/ReykaMR/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ReykaMR/ReykaMR/output/pacman-contribution-graph.svg">
+  </picture>
+
+
+
 # 💫 About Me:
 Junior Web Developer & Quality Assurance pemula yang suka explorasi teknologi terbaru .
 
@@ -23,11 +31,6 @@ Junior Web Developer & Quality Assurance pemula yang suka explorasi teknologi te
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
- <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReykaMR/ReykaMR/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ReykaMR/ReykaMR/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ReykaMR/ReykaMR/output/pacman-contribution-graph.svg">
-  </picture>
 
 
 
