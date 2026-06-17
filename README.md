@@ -23,7 +23,10 @@ Junior Web Developer & Quality Assurance pemula yang suka explorasi teknologi te
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-###
+
+
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/galaga-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/galaga-contribution-graph.svg">
