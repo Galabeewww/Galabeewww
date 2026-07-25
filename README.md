@@ -8,6 +8,11 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ReykaMR/ReykaMR/output/pacman-contribution-graph.svg">
   </picture>
 
+<div align="center">
+ <h1> # 💫 About Me:</h1>
+ <p>Junior Web Developer & Quality Assurance pemula yang suka explorasi teknologi terbaru .</p>
+</div>
+ <br>
 
 
 # 💫 About Me:
